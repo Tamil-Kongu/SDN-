@@ -4,3 +4,7 @@ My first branch changes
 accespt it
 This is my second branch
 Check it
+This is my third branch
+Good working
+
+Git and GitHub, git bash
